@@ -1,4 +1,4 @@
-<img src="https://s4.anilist.co/file/anilistcdn/character/large/b19565-7gMiEAm7NGNK.png" width="240" alt="Yui Hirasawa" align="right" />
+<img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/assets/yui.png" width="220" alt="Yui Hirasawa" align="right" />
 
 <div align="center">
 
