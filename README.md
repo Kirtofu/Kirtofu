@@ -74,6 +74,18 @@ _Currently learning **algorithms** through ACM, tinkering with small **desktop a
 
 <div align="center">
 
+### Find me elsewhere
+
+<a href="https://leetcode.cn/u/cormid/"><img src="https://img.shields.io/badge/LeetCode-cormid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
+<a href="https://cormid.xyz/"><img src="https://img.shields.io/badge/Blog-cormid.xyz-FF85A2?style=for-the-badge&logo=hexo&logoColor=white" alt="Personal Blog"></a>
+<a href="https://github.com/Kirtofu"><img src="https://img.shields.io/badge/GitHub-Kirtofu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+
+</div>
+
+---
+
+<div align="center">
+
 <!-- Visitor counter -->
 <img src="https://komarev.com/ghpvc/?username=Kirtofu&color=FF85A2&style=flat-square&label=Visitors" alt="Visitor count">
 <a href="https://github.com/Kirtofu?tab=followers"><img src="https://img.shields.io/github/followers/Kirtofu?label=Followers&style=flat-square&color=FF85A2" alt="Followers"></a>
