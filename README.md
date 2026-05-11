@@ -29,21 +29,16 @@ _Currently learning **algorithms** through ACM, tinkering with small **desktop a
 <!-- Snake animation: generated daily by .github/workflows/snake.yml, pushed to `output` branch -->
 <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
 
-<div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=Kirtofu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FF85A2&icon_color=FF85A2&text_color=c9d1d9&bg_color=0d1117&card_width=360" alt="GitHub stats">
-<img height="155" src="https://streak-stats.demolab.com?user=Kirtofu&hide_border=true&background=0d1117&stroke=FF85A2&ring=FF85A2&fire=DA1F26&currStreakLabel=FF85A2&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9&card_width=360" alt="GitHub streak">
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kirtofu&layout=compact&hide_border=true&title_color=FF85A2&text_color=c9d1d9&bg_color=0d1117&card_width=360" alt="Top languages">
-
-</div>
-
-<details>
-  <summary>More GitHub metrics</summary>
-  <br>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/metrics.left.svg?v=2" alt="Metrics" width="100%">
-  </div>
-</details>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/metrics.left.svg?v=3" alt="Metrics Left" width="100%">
+    </td>
+    <td align="center" width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/metrics.right.svg?v=3" alt="Metrics Right" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
