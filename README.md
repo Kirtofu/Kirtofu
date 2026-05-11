@@ -29,14 +29,16 @@ _Currently learning **algorithms** through ACM, tinkering with small **desktop a
 <!-- Snake animation: generated daily by .github/workflows/snake.yml, pushed to `output` branch -->
 <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Grid Snake Animation" />
 
-<!-- Metrics cards: generated daily by .github/workflows/main.yml, committed to `main` -->
+<!-- Metrics card (left) + GitHub stats cards (right) -->
 <table align="center" width="100%">
   <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/metrics.left.svg?v=1" alt="Metrics Left" width="100%">
+    <td align="center" width="58%" valign="top">
+      <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/metrics.left.svg?v=2" alt="Metrics" width="100%">
     </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/metrics.right.svg?v=1" alt="Metrics Right" width="100%">
+    <td align="center" width="42%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Kirtofu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=FF85A2&icon_color=FF85A2&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats" width="100%">
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kirtofu&hide_border=true&background=0d1117&stroke=FF85A2&ring=FF85A2&fire=DA1F26&currStreakLabel=FF85A2&sideLabels=c9d1d9&currStreakNum=c9d1d9&dates=8b949e&sideNums=c9d1d9" alt="GitHub streak" width="100%">
     </td>
   </tr>
 </table>
