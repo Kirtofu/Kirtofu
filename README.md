@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/assets/yui-sit.png" width="280" alt="Yui Hirasawa sitting" align="right" />
+<img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/assets/profile-anime.png" width="260" alt="Favorite anime avatar" align="right" />
 
 <div align="center">
 
@@ -7,14 +7,18 @@
 >     <br>
 >     I want to be the kind of person who can play one song, but a song that lasts a lifetime.
 >     <br>
+>     我想成为那种能弹奏一首歌的人，一首能延续一生的歌。
+>     <br>
 >     &mdash; somewhere between the strings of a Gibson Les Paul
+>     <br>
+>     &mdash; 在 Gibson Les Paul 的琴弦之间
 > </em></p>
 
 </div>
 
 <!-- About -->
 
-_✨ Hi, I'm **cormid** (`@Kirtofu`) — keen on building practical things, currently hands-on with **FE** and **BE**.  ✨_
+_✨ Hi, I'm **cormid** (`@Kirtofu`) — a sophomore **Computer Science** student, keen on building practical things, currently hands-on with **FE** and **BE**.  ✨_
 
 _The world drifts like fleeting clouds and life ultimately withers, yet the striving for eternity amidst impermanence is what makes the music worth playing._
 
@@ -44,7 +48,7 @@ _Currently learning **algorithms** through ACM, tinkering with small **desktop a
 
 <div align="center">
 
-### Now Playing & Watching
+### Favorite Anime
 
 <a href="https://music.163.com/playlist?id=17931300623"><img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-My%20Playlist-DA1F26?style=for-the-badge&logo=NetEase-Cloud-Music&logoColor=white" alt="NetEase Cloud Music Playlist"></a>
 <a href="https://anilist.co/anime/5680/KON/"><img src="https://img.shields.io/badge/K--On!-Light_Music_Club-FF85A2?style=for-the-badge&logo=anilist&logoColor=white" alt="K-On!"></a>
@@ -78,6 +82,8 @@ _Currently learning **algorithms** through ACM, tinkering with small **desktop a
 <a href="https://leetcode.cn/u/cormid/"><img src="https://img.shields.io/badge/LeetCode-cormid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 <a href="https://cormid.xyz/"><img src="https://img.shields.io/badge/Blog-cormid.xyz-FF85A2?style=for-the-badge&logo=hexo&logoColor=white" alt="Personal Blog"></a>
 <a href="https://github.com/Kirtofu"><img src="https://img.shields.io/badge/GitHub-Kirtofu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<br>
+<a href="https://space.bilibili.com/53456"><img src="https://img.shields.io/badge/Favorite%20UP%20Creator-Warma-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Favorite UP Creator: Warma"></a>
 
 </div>
 
