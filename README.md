@@ -1,5 +1,5 @@
 <a href="https://space.bilibili.com/53456">
-  <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/assets/profile-anime-card.png" width="300" alt="My Favorite UP Creator: Warma" align="right" />
+  <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/assets/profile-anime-float.png" width="330" alt="My Favorite UP Creator: Warma" align="right" />
 </a>
 
 <div align="center">
