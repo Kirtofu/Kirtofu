@@ -1,18 +1,17 @@
-<img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/assets/profile-anime.png" width="260" alt="Favorite anime avatar" align="right" />
+<a href="https://space.bilibili.com/53456">
+  <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/assets/profile-anime-card.png" width="300" alt="My Favorite UP Creator: Warma" align="right" />
+</a>
 
 <div align="center">
 
 <!-- bilingual literary quote -->
 > <p align="left"><em>
 >     <br>
->     I want to be the kind of person who can play one song, but a song that lasts a lifetime.
+>     人类的赞歌就是勇气的赞歌。
 >     <br>
->     我想成为那种能弹奏一首歌的人，一首能延续一生的歌。
->     <br>
->     &mdash; somewhere between the strings of a Gibson Les Paul
->     <br>
->     &mdash; 在 Gibson Les Paul 的琴弦之间
+>     Humanity's hymn is the hymn of courage.
 > </em></p>
+> <p align="right"><em>&mdash;&mdash; JoJo's Bizarre Adventure</em></p>
 
 </div>
 
@@ -82,8 +81,6 @@ _Currently learning **algorithms** through ACM, tinkering with small **desktop a
 <a href="https://leetcode.cn/u/cormid/"><img src="https://img.shields.io/badge/LeetCode-cormid-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 <a href="https://cormid.xyz/"><img src="https://img.shields.io/badge/Blog-cormid.xyz-FF85A2?style=for-the-badge&logo=hexo&logoColor=white" alt="Personal Blog"></a>
 <a href="https://github.com/Kirtofu"><img src="https://img.shields.io/badge/GitHub-Kirtofu-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-<br>
-<a href="https://space.bilibili.com/53456"><img src="https://img.shields.io/badge/Favorite%20UP%20Creator-Warma-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Favorite UP Creator: Warma"></a>
 
 </div>
 
