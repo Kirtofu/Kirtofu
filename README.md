@@ -1,7 +1,3 @@
-<a href="https://space.bilibili.com/53456">
-  <img src="https://raw.githubusercontent.com/Kirtofu/Kirtofu/main/assets/profile-anime-float.png" width="330" alt="My Favorite UP Creator: Warma" align="right" />
-</a>
-
 <div align="center">
 
 <!-- bilingual literary quote -->
@@ -21,11 +17,7 @@ _✨ Hi, I'm **cormid** (`@Kirtofu`) — a sophomore **Computer Science** studen
 
 _The world drifts like fleeting clouds and life ultimately withers, yet the striving for eternity amidst impermanence is what makes the music worth playing._
 
-_Currently learning **algorithms** through ACM, tinkering with small **desktop apps** (Electron + Vite), and listening to a lot of K-On!_
-
 <sub><em>Nice to meet you. May every day be filled with sunshine, smiles, and a good riff.★</em></sub>
-
-<br clear="right" />
 
 ---
 
